@@ -1,3 +1,7 @@
+<p><a> <img align="center" height="200" width="200" src="https://telegra.ph/file/4babdde5748ae1f765271.jpg" position="flex"</a></a>
+
+
+
 <p align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=tempas+san&weight=900&size=39&pause=1000&color=F738B9&center=true&vCenter=true&random=false&width=435&lines=Assalamu+Alaikum!;I'm+%F0%9D%94%BC%F0%9D%95%92%F0%9D%95%A4%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%A3%F0%9D%95%9F+%F0%9D%94%BE%F0%9D%95%A6%F0%9D%95%A3%F0%9D%95%A6." alt="Typing SVG" /></a> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
