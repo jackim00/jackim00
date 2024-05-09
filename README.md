@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EasternG)](https://github.com/EasternG/github-readme-stats)
 <p align="center" <a> <img align="center" height="300" width="300" src="https://telegra.ph/file/4babdde5748ae1f765271.jpg" position="flex"</a></a>
 
 
