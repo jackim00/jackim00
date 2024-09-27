@@ -11,7 +11,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h2 align="left"><strong>A passionate frontend developer from Nairobi-Kenya.</strong></h2>
 
-- 🔭 I’m currently working on **FlyGoat MD WhatsApp Bot.**
+- 🔭 I’m currently working on **My own projects.**
 
 - 🌱 I’m currently learning **Python3**
 
