@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Web Design and App Development.**
 
-- 📫 How to reach me **easternguru@protonmail.com**
+- 📫 How to reach me **mcjackim@proton.me**
 
 - ⚡ Fun fact **I'm a footballer other than a developer😁!**
 
