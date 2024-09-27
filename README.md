@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mcjackim@proton.me**
 
-- ⚡ Fun fact **I'm a footballer other than a developer😁!**
+- ⚡ Fun fact **I'm a footballer and a developer😁!**
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
